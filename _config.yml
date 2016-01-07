@@ -1,0 +1,28 @@
+name: madiha
+favicon: null
+layout_spectrum: 0.27444925787858665
+typography_spectrum: 0.06554359174333513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6249758517369628
+  lightness: 0.08562990184873343
+  saturation: 0.6548967964481562
+  rhythmicContrast: 0.864797813585028
+purpose: []
